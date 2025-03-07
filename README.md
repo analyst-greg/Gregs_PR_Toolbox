@@ -9,3 +9,6 @@ These are the tools I'll be adapting / compiling into a small open-source prospe
 ### query builders
 -   https://osint-search-builder.vercel.app/
 -   https://vettedremote.com/google-search-operators/
+
+## Salary information
+-  https://github.com/wvictor14/rbiotechsalary
