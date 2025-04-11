@@ -10,5 +10,9 @@ These are the tools I'll be adapting / compiling into a small open-source prospe
 -   https://osint-search-builder.vercel.app/
 -   https://vettedremote.com/google-search-operators/
 
+## AI LLM resources
+### prompt builders
+- https://prompts.chat/
+
 ## Salary information
 -  https://github.com/wvictor14/rbiotechsalary
